@@ -11,7 +11,9 @@
         <selectedon>./ASSETS/selector2.png</selectedon> 
         <selectedoffcolor>ffffff</selectedoffcolor>
         <selectedoncolor>ffffff</selectedoncolor>
+        <gamenamecolor>ffffff</gamenamecolor>
     </variables>
+    
 
     <colorScheme name="Default">
         <variables>
@@ -51,7 +53,7 @@
             <!-- Both system and gamelist views -->
             <backgroundColor>ffffff</backgroundColor>
             <BGcolor>4e4e4e</BGcolor>                        
-            <barcolor>ffffff</barcolor>          
+            <barcolor>9b9b9b</barcolor>          
 
             <!-- System view -->
             <systemCarouselColor>ffffff</systemCarouselColor>
@@ -175,6 +177,136 @@
             <selectedon>./ASSETS/selector20.png</selectedon>
             <selectedoffcolor>ffffff</selectedoffcolor>
             <selectedoncolor>ffca00</selectedoncolor>
+        </variables>
+    </colorScheme>
+
+    <colorScheme name="PearlWhite">
+        <variables>
+            <!-- Both system and gamelist views -->
+            <backgroundColor>ffffff</backgroundColor>
+            <BGcolor>ffffff</BGcolor>                        
+            <barcolor>ffffff</barcolor>         
+
+            <!-- System view -->
+            <systemCarouselColor>ffffff</systemCarouselColor>
+            <systemCarouselTextColor>ffffff</systemCarouselTextColor>
+            <systemGameCounterColor>667285</systemGameCounterColor>
+            <systemGameCounterBackgroundColor>555555D8</systemGameCounterBackgroundColor>
+
+            <systemInfoTextColor>667285</systemInfoTextColor>
+            <systemHelpColor>667285</systemHelpColor>
+            <systemHelpColorDimmed>667285</systemHelpColorDimmed>
+
+            <Systemlistbg>Systemlistbg00.png</Systemlistbg>
+            <Systembar>./ASSETS/SysBluebar00.png</Systembar>
+
+            <!-- Gamelist view -->
+            <gamelistBackFrameColor>6F6F6F</gamelistBackFrameColor>
+            <gamelistTextlistSelectorColor>161616</gamelistTextlistSelectorColor>
+            <gamelistTextlistSelectedColor>AFAFAF</gamelistTextlistSelectedColor>
+            <gamelistTextlistPrimaryColor>dfdfdf</gamelistTextlistPrimaryColor>
+            <gamelistTextlistSecondaryColor>333333</gamelistTextlistSecondaryColor>
+            <gamelistCustomCollectionsHeaderColor>C6C6C6</gamelistCustomCollectionsHeaderColor>
+
+            <gamelistDefaultTextColor>667285</gamelistDefaultTextColor>
+            <gamelistInfoColor>667285</gamelistInfoColor>
+            <gamelistRatingColor>abb5c0</gamelistRatingColor>
+
+            <gamelistHelpColor>667285</gamelistHelpColor>
+            <gamelistHelpColorDimmed>667285</gamelistHelpColorDimmed>
+
+            <Gamelistbg>Gamelistbg00.png</Gamelistbg>
+            <Gamelistbar>./ASSETS/Bluebar00.png</Gamelistbar>
+            <selectedoff>./ASSETS/selector00.png</selectedoff>
+            <selectedon>./ASSETS/selector200.png</selectedon>
+            <selectedoffcolor>ffffff</selectedoffcolor>
+            <selectedoncolor>ffffff</selectedoncolor>
+            <gamenamecolor>abb5c0</gamenamecolor>
+        </variables>
+    </colorScheme>
+
+    <colorScheme name="Pink">
+        <variables>
+            <!-- Both system and gamelist views -->
+            <backgroundColor>ffffff</backgroundColor>
+            <BGcolor>ffbbc7</BGcolor>                        
+            <barcolor>ffe1ea</barcolor>         
+
+            <!-- System view -->
+            <systemCarouselColor>ffffff</systemCarouselColor>
+            <systemCarouselTextColor>ffffff</systemCarouselTextColor>
+            <systemGameCounterColor>ffffff</systemGameCounterColor>
+            <systemGameCounterBackgroundColor>555555D8</systemGameCounterBackgroundColor>
+
+            <systemInfoTextColor>667285</systemInfoTextColor>
+            <systemHelpColor>ffffff</systemHelpColor>
+            <systemHelpColorDimmed>667285</systemHelpColorDimmed>
+
+            <Systemlistbg>Systemlistbg00.png</Systemlistbg>
+            <Systembar>./ASSETS/SysBluebar00.png</Systembar>
+
+            <!-- Gamelist view -->
+            <gamelistBackFrameColor>6F6F6F</gamelistBackFrameColor>
+            <gamelistTextlistSelectorColor>ffffff</gamelistTextlistSelectorColor>
+            <gamelistTextlistSelectedColor>ffffff</gamelistTextlistSelectedColor>
+            <gamelistTextlistPrimaryColor>ffffff</gamelistTextlistPrimaryColor>
+            <gamelistTextlistSecondaryColor>333333</gamelistTextlistSecondaryColor>
+            <gamelistCustomCollectionsHeaderColor>C6C6C6</gamelistCustomCollectionsHeaderColor>
+
+            <gamelistDefaultTextColor>ffffff</gamelistDefaultTextColor>
+            <gamelistInfoColor>ffffff</gamelistInfoColor>
+            <gamelistRatingColor>ff8b9f</gamelistRatingColor>
+
+            <gamelistHelpColor>ffffff</gamelistHelpColor>
+            <gamelistHelpColorDimmed>ffffff</gamelistHelpColorDimmed>
+
+            <Gamelistbg>Gamelistbg00.png</Gamelistbg>
+            <Gamelistbar>./ASSETS/Bluebar00.png</Gamelistbar>
+            <selectedoff>./ASSETS/selector00.png</selectedoff>
+            <selectedon>./ASSETS/selector200.png</selectedon>
+            <selectedoffcolor>ffe1ea</selectedoffcolor>
+            <selectedoncolor>ff8b9f</selectedoncolor>
+        </variables>
+    </colorScheme>
+
+    <colorScheme name="Green">
+        <variables>
+            <!-- Both system and gamelist views -->
+            <backgroundColor>ffffff</backgroundColor>
+            <BGcolor>00ff71</BGcolor>                        
+            <barcolor>00ff71</barcolor> 
+
+            <!-- System view -->
+            <systemCarouselColor>ffffff</systemCarouselColor>
+            <systemCarouselTextColor>ffffff</systemCarouselTextColor>
+            <systemGameCounterColor>ffffff</systemGameCounterColor>
+            <systemGameCounterBackgroundColor>555555D8</systemGameCounterBackgroundColor>
+
+            <systemInfoTextColor>ffffff</systemInfoTextColor>
+            <systemHelpColor>ffffff</systemHelpColor>
+            <systemHelpColorDimmed>ffffff</systemHelpColorDimmed>
+            <Systemlistbg>Systemlistbg.png</Systemlistbg>
+            <Systembar>./ASSETS/SysBluebar0.png</Systembar>
+
+            <!-- Gamelist view -->
+            <gamelistBackFrameColor>6F6F6F</gamelistBackFrameColor>
+            <gamelistTextlistSelectorColor>161616</gamelistTextlistSelectorColor>
+            <gamelistTextlistSelectedColor>AFAFAF</gamelistTextlistSelectedColor>
+            <gamelistTextlistPrimaryColor>dfdfdf</gamelistTextlistPrimaryColor>
+            <gamelistTextlistSecondaryColor>333333</gamelistTextlistSecondaryColor>
+            <gamelistCustomCollectionsHeaderColor>C6C6C6</gamelistCustomCollectionsHeaderColor>
+
+            <gamelistDefaultTextColor>ffffff</gamelistDefaultTextColor>
+            <gamelistInfoColor>ffffff</gamelistInfoColor>
+            <gamelistRatingColor>ffffff</gamelistRatingColor>
+
+            <gamelistHelpColor>ffffff</gamelistHelpColor>
+            <gamelistHelpColorDimmed>ffffff</gamelistHelpColorDimmed>
+            <selectedoff>./ASSETS/selector.png</selectedoff>
+            <selectedon>./ASSETS/selector20.png</selectedon>
+            <selectedoffcolor>00ff5e</selectedoffcolor>
+            <selectedoncolor>00ff71</selectedoncolor>
+             <Gamelistbar>./ASSETS/Bluebar0.png</Gamelistbar>
         </variables>
     </colorScheme>
 

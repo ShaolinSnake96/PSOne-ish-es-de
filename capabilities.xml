@@ -6,7 +6,9 @@
     <themeName>PSOne-ish</themeName>
 
     <aspectRatio>16:9</aspectRatio>
+    <aspectRatio>16:10</aspectRatio>
     <aspectRatio>4:3</aspectRatio>
+    <aspectRatio>19.5:9</aspectRatio>
 
     <colorScheme name="Default">
         <label>Default</label>
@@ -20,8 +22,20 @@
         <label>Grey</label>
     </colorScheme>
 
+    <colorScheme name="Green">
+        <label>Mystic Green</label>
+    </colorScheme>
+
     <colorScheme name="Red">
         <label>Red</label>
+    </colorScheme>
+
+    <colorScheme name="PearlWhite">
+        <label>Pearl White</label>
+    </colorScheme>
+    
+    <colorScheme name="Pink">
+        <label>Pink</label>
     </colorScheme>
 
     <transitions name="slide">
