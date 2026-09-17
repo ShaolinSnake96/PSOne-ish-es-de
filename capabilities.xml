@@ -94,32 +94,9 @@
     </suppressTransitionProfiles>
 
     <variant name="variant01">
-        <label>01 - Horizontal carousel and textlist</label>
+        <label>Gamelist Grid</label>
         <selectable>true</selectable>
     </variant>
 
-    <variant name="variant02">
-        <label>02 - System view game info and wheel carousels</label>
-        <selectable>true</selectable>
-    </variant>
 
-    <variant name="variant03">
-        <label>03 - Textlist and vertical carousel</label>
-        <selectable>true</selectable>
-    </variant>
-
-    <variant name="variant04">
-        <label>04 - Textlist and carousel with reflections</label>
-        <selectable>true</selectable>
-    </variant>
-
-    <variant name="variant05">
-        <label>05 - System and gamelist grids</label>
-        <selectable>true</selectable>
-    </variant>
-
-    <variant name="variant06">
-        <label>06 - GIF and Lottie animations</label>
-        <selectable>true</selectable>
-    </variant>
 </themeCapabilities>
